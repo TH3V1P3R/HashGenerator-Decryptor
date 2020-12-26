@@ -18,6 +18,9 @@ while use_ag in options:
         if y_hash in t:
             print("Hash Cracked!!\n==>{0}::{1}".format(y_hash,i))
             break;
+        else:
+            print("Password Not Found!")
+            break;
     use_ag=str(input("do you want to use again: "))    
 input("press enter to exit...")
 
