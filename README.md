@@ -19,5 +19,13 @@ NOTES:
 this tools doesn't require anything just setup python (more likely 3.?) and run it as follow:
 
 cloning:
-==> git clone
+==> git clone https://github.com/theviper17y/HashGenerator-Decryptor/
 
+usage :
+python3 Hgen.py
+
+or 
+
+python3 Hdec.py
+
+Warrning: you can edit ,sell ,publish ... . but keep under the law.
