@@ -1,4 +1,4 @@
-from test2 import h
+from hasher import h
 retry = "y"
 while retry == "y":
     pswd = str(input("\nenter your password : "))
