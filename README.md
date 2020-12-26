@@ -39,4 +39,4 @@ Warning:
 you can edit ,sell ,publish ... . but keep under the law.
 
 
-Copyright (c) 2019-2020 TH3V1P3R
+Copyright (c) 2019-2021 TH3V1P3R
