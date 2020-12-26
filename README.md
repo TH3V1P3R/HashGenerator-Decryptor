@@ -34,6 +34,6 @@ or
 
 python3 Hdec.py
 
-Warrning:
+Warning:
 --------
 you can edit ,sell ,publish ... . but keep under the law.
