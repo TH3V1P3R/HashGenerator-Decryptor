@@ -1,4 +1,4 @@
-from test2 import h
+from hasher import h
 from readhw import rdw
 use_ag = 'y'
 options=['y', 'Y' , 'yes', 'sure', 'Sure' , 'of cours', 'Yes', 'yep', 'Yep', 'Yeah', 'yeah']
