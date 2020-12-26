@@ -37,3 +37,6 @@ python3 Hdec.py
 Warning:
 --------
 you can edit ,sell ,publish ... . but keep under the law.
+
+
+Copyright (c) 2019-2020 TH3V1P3R
