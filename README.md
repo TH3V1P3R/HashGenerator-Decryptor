@@ -17,7 +17,6 @@ NOTES:
 -----
 
 this tools doesn't require anything just setup python (more likely 3.?) and run it as follow:
-r
 
 
 usage :
