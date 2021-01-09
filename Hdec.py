@@ -14,13 +14,13 @@ while use_ag in options:
         i = i.rstrip("\n")
         hasht = hh.hashin(i,htypes)
         a.append(hasht)
+        global t
         t = a[:]
         if y_hash in t:
             print("Hash Cracked!!\n==>{0}::{1}".format(y_hash,i))
             break;
-        else:
-            print("Password Not Found!")
-            break;
+    if y_hash not in t:
+        print("Password Not Found!")
     use_ag=str(input("do you want to use again: "))    
 input("press enter to exit...")
 
